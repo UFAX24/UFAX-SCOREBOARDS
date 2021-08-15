@@ -1,0 +1,26 @@
+<%- layout('layouts/index') %>
+<section class="home-container">
+    <div class="home-container-item scoreboard">
+        <div class="home-container-title">
+            <button class="arrow-control" data-type="scoreboard" data-value="left">&lt;</button>
+            <span class="home-title">                
+                <input class="datepicker-scoreboard" type="text" name="date" id="datepicker-scoreboard">
+            </span>
+            <button class="arrow-control" data-type="scoreboard" data-value="right">&gt;</button>
+        </div>
+        <div class="home-container-content">
+        </div>
+    </div>
+    <div class="home-container-item standing">
+        <div class="home-container-title">
+            <button class="arrow-control" data-type="standing" data-value="left">&lt;</button>
+            <span class="home-title"></span>
+            <button class="arrow-control" data-type="standing" data-value="right">&gt;</button>
+        </div>
+        <div class="home-container-content">
+            
+        </div>
+    </div>
+</div>
+
+<script src="/js/home.js?v=<%= (new Date()).getTime() %>" defer></script>

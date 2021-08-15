@@ -1,0 +1,1835 @@
+[
+  {
+    "id": "700",
+    "name": "English Premier League",
+    "abbreviation": "Prem",
+    "midsizeName": "ENG.1",
+    "slug": "english-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "730",
+    "name": "Italian Serie A",
+    "abbreviation": "Serie A",
+    "midsizeName": "ITA.1",
+    "slug": "italian-serie-a",
+    "hasStandings": true
+  },
+  {
+    "id": "720",
+    "name": "German Bundesliga",
+    "abbreviation": "Bund",
+    "midsizeName": "GER.1",
+    "slug": "german-bundesliga",
+    "hasStandings": true
+  },
+  {
+    "id": "740",
+    "name": "Spanish Primera División",
+    "abbreviation": "LaLiga",
+    "midsizeName": "ESP.1",
+    "slug": "spanish-primera-division",
+    "hasStandings": true
+  },
+  {
+    "id": "710",
+    "name": "French Ligue 1",
+    "abbreviation": "Ligue 1",
+    "midsizeName": "FRA.1",
+    "slug": "french-ligue-1",
+    "hasStandings": true
+  },
+  {
+    "id": "775",
+    "name": "UEFA Champions League",
+    "abbreviation": "UCL",
+    "midsizeName": "UEFA.CHAMPIONS",
+    "slug": "uefa-champions-league",
+    "hasStandings": false
+  },
+  {
+    "id": "776",
+    "name": "UEFA Europa League",
+    "abbreviation": "Europa",
+    "midsizeName": "UEFA.EUROPA",
+    "slug": "uefa-europa-league",
+    "hasStandings": false
+  },
+  {
+    "id": "19267",
+    "name": "CONCACAF Nations League",
+    "abbreviation": "CONF NL",
+    "midsizeName": "CONCACAF.NATIONS.LEAGUE",
+    "slug": "concacaf-nations-league",
+    "hasStandings": false
+  },
+  {
+    "id": "781",
+    "name": "UEFA European Championship",
+    "abbreviation": "EC",
+    "midsizeName": "UEFA.EURO",
+    "slug": "uefa-european-championship",
+    "hasStandings": true
+  },
+  {
+    "id": "780",
+    "name": "Copa America",
+    "abbreviation": "Copa Am",
+    "midsizeName": "CONMEBOL.AMERICA",
+    "slug": "copa-america",
+    "hasStandings": true
+  },
+  {
+    "id": "770",
+    "name": "Major League Soccer",
+    "abbreviation": "MLS",
+    "midsizeName": "USA.1",
+    "slug": "major-league-soccer",
+    "hasStandings": true
+  },
+  {
+    "id": "787",
+    "name": "FIFA World Cup Qualifying - CONMEBOL",
+    "abbreviation": "WCQ",
+    "midsizeName": "FIFA.WORLDQ.CONMEBOL",
+    "slug": "fifa-world-cup-qualifying---conmebol",
+    "hasStandings": true
+  },
+  {
+    "id": "788",
+    "name": "FIFA World Cup Qualifying - CONCACAF",
+    "abbreviation": "WCQ",
+    "midsizeName": "FIFA.WORLDQ.CONCACAF",
+    "slug": "fifa-world-cup-qualifying---concacaf",
+    "hasStandings": true
+  },
+  {
+    "id": "789",
+    "name": "FIFA World Cup Qualifying - AFC",
+    "abbreviation": "WCQ",
+    "midsizeName": "FIFA.WORLDQ.AFC",
+    "slug": "fifa-world-cup-qualifying---afc",
+    "hasStandings": true
+  },
+  {
+    "id": "3922",
+    "name": "International Friendly",
+    "abbreviation": "Int",
+    "midsizeName": "FIFA.FRIENDLY",
+    "slug": "international-friendly",
+    "hasStandings": false
+  },
+  {
+    "id": "8301",
+    "name": "United States NWSL",
+    "abbreviation": "NWSL",
+    "midsizeName": "USA.NWSL",
+    "slug": "united-states-nwsl",
+    "hasStandings": true
+  },
+  {
+    "id": "760",
+    "name": "Mexican Liga BBVA MX",
+    "abbreviation": "Prim",
+    "midsizeName": "MEX.1",
+    "slug": "mexican-liga-bbva-mx",
+    "hasStandings": false
+  },
+  {
+    "id": "3914",
+    "name": "English League Championship",
+    "abbreviation": "LC",
+    "midsizeName": "ENG.2",
+    "slug": "english-league-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "3920",
+    "name": "English Carabao Cup",
+    "abbreviation": "CC",
+    "midsizeName": "ENG.LEAGUE_CUP",
+    "slug": "english-carabao-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3918",
+    "name": "English FA Cup",
+    "abbreviation": "FAC",
+    "midsizeName": "ENG.FA",
+    "slug": "english-fa-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3951",
+    "name": "Spanish Copa del Rey",
+    "abbreviation": "Esp Cup",
+    "midsizeName": "ESP.COPA_DEL_REY",
+    "slug": "spanish-copa-del-rey",
+    "hasStandings": false
+  },
+  {
+    "id": "3956",
+    "name": "Italian Coppa Italia",
+    "abbreviation": "Ita Cup",
+    "midsizeName": "ITA.COPPA_ITALIA",
+    "slug": "italian-coppa-italia",
+    "hasStandings": false
+  },
+  {
+    "id": "3954",
+    "name": "German DFB Pokal",
+    "abbreviation": "Ger Cup",
+    "midsizeName": "GER.DFB_POKAL",
+    "slug": "german-dfb-pokal",
+    "hasStandings": false
+  },
+  {
+    "id": "3952",
+    "name": "French Coupe de France",
+    "abbreviation": "Fra Cup",
+    "midsizeName": "FRA.COUPE_DE_FRANCE",
+    "slug": "french-coupe-de-france",
+    "hasStandings": false
+  },
+  {
+    "id": "8206",
+    "name": "Mexican Copa MX",
+    "abbreviation": "Copa Mex",
+    "midsizeName": "MEX.COPA_MX",
+    "slug": "mexican-copa-mx",
+    "hasStandings": false
+  },
+  {
+    "id": "5699",
+    "name": "CONCACAF Champions League",
+    "abbreviation": "Conc CL",
+    "midsizeName": "CONCACAF.CHAMPIONS",
+    "slug": "concacaf-champions-league",
+    "hasStandings": false
+  },
+  {
+    "id": "725",
+    "name": "Dutch Eredivisie",
+    "abbreviation": "Erediv",
+    "midsizeName": "NED.1",
+    "slug": "dutch-eredivisie",
+    "hasStandings": false
+  },
+  {
+    "id": "3957",
+    "name": "Dutch KNVB Beker",
+    "abbreviation": "Ned Cup",
+    "midsizeName": "NED.CUP",
+    "slug": "dutch-knvb-beker",
+    "hasStandings": false
+  },
+  {
+    "id": "715",
+    "name": "Portuguese Liga",
+    "abbreviation": "Liga",
+    "midsizeName": "POR.1",
+    "slug": "portuguese-liga",
+    "hasStandings": true
+  },
+  {
+    "id": "3939",
+    "name": "Russian Premier League",
+    "abbreviation": "Prem",
+    "midsizeName": "RUS.1",
+    "slug": "russian-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "3959",
+    "name": "Scottish Cup",
+    "abbreviation": "SFAC",
+    "midsizeName": "SCO.TENNENTS",
+    "slug": "scottish-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "735",
+    "name": "Scottish Premiership",
+    "abbreviation": "SPFL",
+    "midsizeName": "SCO.1",
+    "slug": "scottish-premiership",
+    "hasStandings": true
+  },
+  {
+    "id": "8376",
+    "name": "Chinese Super League",
+    "abbreviation": "Chinese Super League",
+    "midsizeName": "CHN.1",
+    "slug": "chinese-super-league",
+    "hasStandings": true
+  },
+  {
+    "id": "3906",
+    "name": "Australian A-League",
+    "abbreviation": "A Lge",
+    "midsizeName": "AUS.1",
+    "slug": "australian-a-league",
+    "hasStandings": true
+  },
+  {
+    "id": "18771",
+    "name": "Campeones Cup",
+    "abbreviation": "CAMP",
+    "midsizeName": "CAMPEONES.CUP",
+    "slug": "campeones-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "5337",
+    "name": "United States Open Cup",
+    "abbreviation": "Open",
+    "midsizeName": "USA.OPEN",
+    "slug": "united-states-open-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "19425",
+    "name": "Leagues Cup",
+    "abbreviation": "Conc LC",
+    "midsizeName": "CONCACAF.LEAGUES.CUP",
+    "slug": "leagues-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "4002",
+    "name": "USL Championship",
+    "abbreviation": "USL",
+    "midsizeName": "USA.USL.1",
+    "slug": "usl-championship",
+    "hasStandings": true
+  },
+  {
+    "id": "19915",
+    "name": "USL League One",
+    "abbreviation": "USL1",
+    "midsizeName": "USA.USL.L1",
+    "slug": "usl-league-one",
+    "hasStandings": true
+  },
+  {
+    "id": "3932",
+    "name": "Mexican Liga de Expansión MX",
+    "abbreviation": "Prim A",
+    "midsizeName": "MEX.2",
+    "slug": "mexican-liga-de-expansion-mx",
+    "hasStandings": false
+  },
+  {
+    "id": "3902",
+    "name": "AFC Champions League",
+    "abbreviation": "AFC CL",
+    "midsizeName": "AFC.CHAMPIONS",
+    "slug": "afc-champions-league",
+    "hasStandings": true
+  },
+  {
+    "id": "3923",
+    "name": "Women's International Friendly",
+    "abbreviation": "Int",
+    "midsizeName": "FIFA.FRIENDLY.W",
+    "slug": "womens-international-friendly",
+    "hasStandings": false
+  },
+  {
+    "id": "20114",
+    "name": "UEFA European Under-21 Championship Qualifying",
+    "abbreviation": "UEFA European Under-21 Championship Qualifying",
+    "midsizeName": "UEFA.EURO_U21_QUAL",
+    "slug": "uefa-european-under-21-championship-qualifying",
+    "hasStandings": true
+  },
+  {
+    "id": "20132",
+    "name": "Under-21 International Friendly",
+    "abbreviation": "IF U21",
+    "midsizeName": "FIFA.FRIENDLY_U21",
+    "slug": "under-21-international-friendly",
+    "hasStandings": false
+  },
+  {
+    "id": "606",
+    "name": "FIFA World Cup",
+    "abbreviation": "WC",
+    "midsizeName": "FIFA.WORLD",
+    "slug": "fifa-world-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "786",
+    "name": "FIFA World Cup Qualifying - UEFA",
+    "abbreviation": "WCQ",
+    "midsizeName": "FIFA.WORLDQ.UEFA",
+    "slug": "fifa-world-cup-qualifying---uefa",
+    "hasStandings": true
+  },
+  {
+    "id": "790",
+    "name": "FIFA World Cup Qualifying - CAF",
+    "abbreviation": "WCQ",
+    "midsizeName": "FIFA.WORLDQ.CAF",
+    "slug": "fifa-world-cup-qualifying---caf",
+    "hasStandings": true
+  },
+  {
+    "id": "792",
+    "name": "FIFA World Cup Qualifying - OFC",
+    "abbreviation": "WCQ",
+    "midsizeName": "FIFA.WORLDQ.OFC",
+    "slug": "fifa-world-cup-qualifying---ofc",
+    "hasStandings": false
+  },
+  {
+    "id": "795",
+    "name": "FIFA Women's World Cup",
+    "abbreviation": "WWC",
+    "midsizeName": "FIFA.WWC",
+    "slug": "fifa-womens-world-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "5501",
+    "name": "FIFA Club World Cup",
+    "abbreviation": "CWC",
+    "midsizeName": "FIFA.CWC",
+    "slug": "fifa-club-world-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "4004",
+    "name": "CONCACAF Gold Cup",
+    "abbreviation": "Gold",
+    "midsizeName": "CONCACAF.GOLD",
+    "slug": "concacaf-gold-cup",
+    "hasStandings": true
+  },
+  {
+    "id": "19778",
+    "name": "CONCACAF Gold Cup Qualifying",
+    "abbreviation": "Conc GCQ",
+    "midsizeName": "CONCACAF.GOLD_QUAL",
+    "slug": "concacaf-gold-cup-qualifying",
+    "hasStandings": false
+  },
+  {
+    "id": "18909",
+    "name": "CONCACAF Nations League Qualifying",
+    "abbreviation": "CONF NL",
+    "midsizeName": "CONCACAF.NATIONS.LEAGUE_QUAL",
+    "slug": "concacaf-nations-league-qualifying",
+    "hasStandings": true
+  },
+  {
+    "id": "8360",
+    "name": "CONCACAF Cup",
+    "abbreviation": "Conf Pl",
+    "midsizeName": "CONCACAF.CONFEDERATIONS_PLAYOFF",
+    "slug": "concacaf-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3947",
+    "name": "UEFA European Championship Qualifying",
+    "abbreviation": "ECQ",
+    "midsizeName": "UEFA.EUROQ",
+    "slug": "uefa-european-championship-qualifying",
+    "hasStandings": false
+  },
+  {
+    "id": "2395",
+    "name": "UEFA Nations League",
+    "abbreviation": "UEFA Nations",
+    "midsizeName": "UEFA.NATIONS",
+    "slug": "uefa-nations-league",
+    "hasStandings": false
+  },
+  {
+    "id": "5661",
+    "name": "AFC Asian Cup",
+    "abbreviation": "AFC Cup",
+    "midsizeName": "AFC.CUP",
+    "slug": "afc-asian-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "5662",
+    "name": "AFC Asian Cup Qualifiers",
+    "abbreviation": "AFC Cup Q",
+    "midsizeName": "AFC.CUPQ",
+    "slug": "afc-asian-cup-qualifiers",
+    "hasStandings": true
+  },
+  {
+    "id": "8315",
+    "name": "Africa Cup of Nations qualifying",
+    "midsizeName": "CAF.NATIONS_QUAL",
+    "slug": "africa-cup-of-nations-qualifying",
+    "hasStandings": true
+  },
+  {
+    "id": "3908",
+    "name": "Africa Cup of Nations",
+    "abbreviation": "ANC",
+    "midsizeName": "CAF.NATIONS",
+    "slug": "africa-cup-of-nations",
+    "hasStandings": false
+  },
+  {
+    "id": "8365",
+    "name": "Africa Nations Championship",
+    "abbreviation": "ANChamp",
+    "midsizeName": "CAF.CHAMPIONSHIP",
+    "slug": "african-nations-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "19427",
+    "name": "WAFU Cup of Nations",
+    "abbreviation": "WAFUCN",
+    "midsizeName": "WAFU.NATIONS",
+    "slug": "wafu-cup-of-nations",
+    "hasStandings": false
+  },
+  {
+    "id": "19728",
+    "name": "SheBelieves Cup",
+    "abbreviation": "SBC",
+    "midsizeName": "FIFA.SHEBELIEVES",
+    "slug": "shebelieves-cup",
+    "hasStandings": true
+  },
+  {
+    "id": "4006",
+    "name": "FIFA Confederations Cup",
+    "abbreviation": "Conf",
+    "midsizeName": "FIFA.CONFEDERATIONS",
+    "slug": "fifa-confederations-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "19725",
+    "name": "Non-FIFA Friendly",
+    "abbreviation": "Non-FIFA Friendly",
+    "midsizeName": "NONFIFA",
+    "slug": "non-fifa-friendly",
+    "hasStandings": false
+  },
+  {
+    "id": "20186",
+    "name": "Portuguese Liga Promotion/Relegation Playoffs",
+    "abbreviation": "Portuguese Liga Promotion/Relegation Playoffs",
+    "midsizeName": "POR.1.PROMOTION.RELEGATION",
+    "slug": "portuguese-liga-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "20116",
+    "name": "Belgian First Division A - Promotion/Relegation Playoffs",
+    "abbreviation": "BEL",
+    "midsizeName": "BEL.PROMOTION.RELEGATION",
+    "slug": "belgian-first-division-a---promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3901",
+    "name": "Belgian First Division A",
+    "abbreviation": "Belgian First Division A",
+    "midsizeName": "BEL.1",
+    "slug": "belgian-first-division-a",
+    "hasStandings": true
+  },
+  {
+    "id": "3907",
+    "name": "Austrian Bundesliga",
+    "abbreviation": "Bund",
+    "midsizeName": "AUT.1",
+    "slug": "austrian-bundesliga",
+    "hasStandings": false
+  },
+  {
+    "id": "3946",
+    "name": "Turkish Super Lig",
+    "abbreviation": "Super",
+    "midsizeName": "TUR.1",
+    "slug": "turkish-super-lig",
+    "hasStandings": true
+  },
+  {
+    "id": "20182",
+    "name": "Austrian Bundesliga Promotion/Relegation Playoffs",
+    "abbreviation": "Bund",
+    "midsizeName": "AUT.PROMOTION.RELEGATION",
+    "slug": "austrian-bundesliga-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3955",
+    "name": "Greek Super League",
+    "abbreviation": "Super",
+    "midsizeName": "GRE.1",
+    "slug": "greek-super-league",
+    "hasStandings": true
+  },
+  {
+    "id": "19892",
+    "name": "Greek Super League Promotion/Relegation Playoffs",
+    "abbreviation": "Super",
+    "midsizeName": "GRE.1.PROMOTION.RELEGATION",
+    "slug": "greek-super-league-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3944",
+    "name": "Swiss Super League",
+    "abbreviation": "Super",
+    "midsizeName": "SUI.1",
+    "slug": "swiss-super-league",
+    "hasStandings": true
+  },
+  {
+    "id": "19874",
+    "name": "UEFA Champions League Qualifying",
+    "abbreviation": "Europa",
+    "midsizeName": "UEFA.CHAMPIONS_QUAL",
+    "slug": "uefa-champions-league-qualifying",
+    "hasStandings": false
+  },
+  {
+    "id": "19884",
+    "name": "Swiss Super League Promotion/Relegation Playoffs",
+    "abbreviation": "Swiss Super League Promotion/Relegation Playoffs",
+    "midsizeName": "SUI.1.PROMOTION.RELEGATION",
+    "slug": "swiss-super-league-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "19887",
+    "name": "UEFA Europa League Qualifying",
+    "abbreviation": "Europa",
+    "midsizeName": "UEFA.EUROPA_QUAL",
+    "slug": "uefa-europa-league-qualifying",
+    "hasStandings": false
+  },
+  {
+    "id": "19834",
+    "name": "Club Friendly",
+    "abbreviation": "Int",
+    "midsizeName": "CLUB.FRIENDLY",
+    "slug": "club-friendly",
+    "hasStandings": false
+  },
+  {
+    "id": "8103",
+    "name": "Italian Supercoppa",
+    "abbreviation": "Sup Cup",
+    "midsizeName": "ITA.SUPER_CUP",
+    "slug": "italian-supercoppa",
+    "hasStandings": false
+  },
+  {
+    "id": "19483",
+    "name": "UEFA Women's Champions League",
+    "abbreviation": "UWCL",
+    "midsizeName": "UEFA.WCHAMPIONS",
+    "slug": "uefa-womens-champions-league",
+    "hasStandings": false
+  },
+  {
+    "id": "5462",
+    "name": "UEFA Super Cup",
+    "abbreviation": "Super C",
+    "midsizeName": "UEFA.SUPER_CUP",
+    "slug": "uefa-super-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "8102",
+    "name": "Spanish Supercopa",
+    "abbreviation": "Sup Cup",
+    "midsizeName": "ESP.SUPER_CUP",
+    "slug": "spanish-supercopa",
+    "hasStandings": false
+  },
+  {
+    "id": "8307",
+    "name": "International Champions Cup",
+    "abbreviation": "Champions Cup",
+    "midsizeName": "GLOBAL.CHAMPS_CUP",
+    "slug": "international-champions-cup",
+    "hasStandings": true
+  },
+  {
+    "id": "8357",
+    "name": "French Trophee des Champions",
+    "abbreviation": "Fra SC",
+    "midsizeName": "FRA.SUPER_CUP",
+    "slug": "french-trophee-des-champions",
+    "hasStandings": false
+  },
+  {
+    "id": "8101",
+    "name": "German DFL-Supercup",
+    "abbreviation": "Ligapokal",
+    "midsizeName": "GER.SUPER_CUP",
+    "slug": "german-dfl-supercup",
+    "hasStandings": false
+  },
+  {
+    "id": "5329",
+    "name": "English FA Community Shield",
+    "abbreviation": "Comm",
+    "midsizeName": "ENG.CHARITY",
+    "slug": "english-fa-community-shield",
+    "hasStandings": false
+  },
+  {
+    "id": "10749",
+    "name": "Dutch Johan Cruyff Shield",
+    "abbreviation": "DUTCH SP",
+    "midsizeName": "NED.SUPERCUP",
+    "slug": "dutch-johan-cruyff-shield",
+    "hasStandings": false
+  },
+  {
+    "id": "17930",
+    "name": "Audi Cup",
+    "abbreviation": "AUDI",
+    "midsizeName": "GER.AUDI_CUP",
+    "slug": "audi-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "17929",
+    "name": "Trofeo Joan Gamper",
+    "abbreviation": "TJG",
+    "midsizeName": "ESP.JOAN_GAMPER",
+    "slug": "trofeo-joan-gamper",
+    "hasStandings": false
+  },
+  {
+    "id": "18755",
+    "name": "Women's International Champions Cup",
+    "abbreviation": "WICC",
+    "midsizeName": "GLOBAL.WCHAMPS_CUP",
+    "slug": "womens-international-champions-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "17928",
+    "name": "Premier League Asia Trophy",
+    "abbreviation": "PLAT",
+    "midsizeName": "ENG.ASIA_TROPHY",
+    "slug": "premier-league-asia-trophy",
+    "hasStandings": false
+  },
+  {
+    "id": "11108",
+    "name": "Emirates Cup",
+    "abbreviation": "EC",
+    "midsizeName": "FRIENDLY.EMIRATES_CUP",
+    "slug": "emirates-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "17931",
+    "name": "Japanese J League World Challenge",
+    "abbreviation": "JLWC",
+    "midsizeName": "JPN.WORLD_CHALLENGE",
+    "slug": "japanese-j-league-world-challenge",
+    "hasStandings": false
+  },
+  {
+    "id": "3925",
+    "name": "Women's Olympic Tournament",
+    "abbreviation": "Oly",
+    "midsizeName": "FIFA.W.OLYMPICS",
+    "slug": "womens-olympic-tournament",
+    "hasStandings": true
+  },
+  {
+    "id": "10739",
+    "name": "SuperCopa Euroamericana",
+    "abbreviation": "SC EA",
+    "midsizeName": "EUROAMERICANA.SUPERCOPA",
+    "slug": "supercopa-euroamericana",
+    "hasStandings": false
+  },
+  {
+    "id": "3924",
+    "name": "Men's Olympic Tournament",
+    "abbreviation": "Oly",
+    "midsizeName": "FIFA.OLYMPICS",
+    "slug": "mens-olympic-tournament",
+    "hasStandings": true
+  },
+  {
+    "id": "19727",
+    "name": "CONMEBOL Pre-Olympic Tournament",
+    "abbreviation": "CPT",
+    "midsizeName": "FIFA.CONMEBOL.OLYMPICSQ",
+    "slug": "conmebol-pre-olympic-tournament",
+    "hasStandings": true
+  },
+  {
+    "id": "19831",
+    "name": "CONCACAF Men's Olympic Qualifying",
+    "abbreviation": "Oly Q",
+    "midsizeName": "FIFA.CONCACAF.OLYMPICSQ",
+    "slug": "concacaf-mens-olympic-qualifying",
+    "hasStandings": false
+  },
+  {
+    "id": "5342",
+    "name": "CONCACAF Women's Olympic Qualifying Tournament",
+    "abbreviation": "Oly Q",
+    "midsizeName": "FIFA.W.CONCACAF.OLYMPICSQ",
+    "slug": "concacaf-womens-olympic-qualifying-tournament",
+    "hasStandings": false
+  },
+  {
+    "id": "5697",
+    "name": "FIFA Under-17 World Cup",
+    "abbreviation": "WC U17",
+    "midsizeName": "FIFA.WORLD.U17",
+    "slug": "fifa-under-17-world-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "18969",
+    "name": "CONCACAF Women's Championship",
+    "midsizeName": "CONCACAF.WOMENS.CHAMPIONSHIP",
+    "slug": "concacaf-womens-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "5694",
+    "name": "FIFA Under-20 World Cup",
+    "abbreviation": "WC U20",
+    "midsizeName": "FIFA.WORLD.U20",
+    "slug": "fifa-under-20-world-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "11109",
+    "name": "Toulon Tournament",
+    "abbreviation": "TLT",
+    "midsizeName": "GLOBAL.TOULON",
+    "slug": "toulon-tournament",
+    "hasStandings": false
+  },
+  {
+    "id": "5693",
+    "name": "UEFA European Under-21 Championship",
+    "abbreviation": "UEFA U21",
+    "midsizeName": "UEFA.EURO_U21",
+    "slug": "uefa-european-under-21-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "5698",
+    "name": "UEFA European Under-19 Championship",
+    "abbreviation": "UEFA U19",
+    "midsizeName": "UEFA.EURO.U19",
+    "slug": "uefa-european-under-19-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "17915",
+    "name": "UEFA Women's European Championship",
+    "midsizeName": "UEFA.WEURO",
+    "slug": "uefa-womens-european-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "8097",
+    "name": "FA Women's Super League",
+    "abbreviation": "WSL",
+    "midsizeName": "ENG.W.1",
+    "slug": "fa-womens-super-league",
+    "hasStandings": true
+  },
+  {
+    "id": "19907",
+    "name": "English Women's FA Community Shield",
+    "abbreviation": "Comm",
+    "midsizeName": "ENG.W.CHARITY",
+    "slug": "english-womens-fa-community-shield",
+    "hasStandings": false
+  },
+  {
+    "id": "18481",
+    "name": "English EFL Trophy",
+    "abbreviation": "EFL",
+    "midsizeName": "ENG.TROPHY",
+    "slug": "english-efl-trophy",
+    "hasStandings": false
+  },
+  {
+    "id": "3917",
+    "name": "English National League",
+    "abbreviation": "Conf",
+    "midsizeName": "ENG.5",
+    "slug": "english-national-league",
+    "hasStandings": false
+  },
+  {
+    "id": "3915",
+    "name": "English League One",
+    "abbreviation": "L1",
+    "midsizeName": "ENG.3",
+    "slug": "english-league-one",
+    "hasStandings": false
+  },
+  {
+    "id": "3916",
+    "name": "English League Two",
+    "abbreviation": "L2",
+    "midsizeName": "ENG.4",
+    "slug": "english-league-two",
+    "hasStandings": false
+  },
+  {
+    "id": "20133",
+    "name": "Scottish Premiership Promotion/Relegation Playoffs",
+    "abbreviation": "Scottish Premiership Promotion/Relegation Playoffs",
+    "midsizeName": "SCO.1.PROMOTION.RELEGATION",
+    "slug": "scottish-premiership-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "5330",
+    "name": "Scottish League Cup",
+    "abbreviation": "LC",
+    "midsizeName": "SCO.CIS",
+    "slug": "scottish-league-cup",
+    "hasStandings": true
+  },
+  {
+    "id": "3941",
+    "name": "Scottish League One",
+    "abbreviation": "SCO 1",
+    "midsizeName": "SCO.3",
+    "slug": "scottish-league-one",
+    "hasStandings": true
+  },
+  {
+    "id": "3940",
+    "name": "Scottish Championship",
+    "abbreviation": "SCO C",
+    "midsizeName": "SCO.2",
+    "slug": "scottish-championship",
+    "hasStandings": true
+  },
+  {
+    "id": "20134",
+    "name": "Scottish Championship Promotion/Relegation Playoffs",
+    "abbreviation": "Scottish Championship Promotion/Relegation Playoffs",
+    "midsizeName": "SCO.2.PROMOTION.RELEGATION",
+    "slug": "scottish-championship-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "20135",
+    "name": "Scottish League One Promotion/Relegation Playoffs",
+    "abbreviation": "Scottish League One Promotion/Relegation Playoffs",
+    "midsizeName": "SCO.3.PROMOTION.RELEGATION",
+    "slug": "scottish-league-one-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "20138",
+    "name": "Scottish League Two Promotion/Relegation Playoffs",
+    "abbreviation": "Scottish League Two Promotion/Relegation Playoffs",
+    "midsizeName": "SCO.4.PROMOTION.RELEGATION",
+    "slug": "scottish-league-two-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3942",
+    "name": "Scottish League Two",
+    "abbreviation": "SCO 2",
+    "midsizeName": "SCO.4",
+    "slug": "scottish-league-two",
+    "hasStandings": true
+  },
+  {
+    "id": "5331",
+    "name": "Scottish League Challenge Cup",
+    "abbreviation": "Chall",
+    "midsizeName": "SCO.CHALLENGE",
+    "slug": "scottish-league-challenge-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3921",
+    "name": "Spanish Segunda División",
+    "abbreviation": "Seg",
+    "midsizeName": "ESP.2",
+    "slug": "spanish-segunda-division",
+    "hasStandings": false
+  },
+  {
+    "id": "8304",
+    "name": "German Bundesliga Promotion/Relegation Playoff",
+    "midsizeName": "GER.PLAYOFF.RELEGATION",
+    "slug": "german-bundesliga-promotionrelegation-playoff",
+    "hasStandings": false
+  },
+  {
+    "id": "19871",
+    "name": "German 2. Bundesliga Promotion/Relegation Playoffs",
+    "abbreviation": "German 2. Bundesliga Promotion/Relegation Playoffs",
+    "midsizeName": "GER.2.PROMOTION.RELEGATION",
+    "slug": "german-2-bundesliga-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3927",
+    "name": "German 2. Bundesliga",
+    "abbreviation": "Bund 2",
+    "midsizeName": "GER.2",
+    "slug": "german-2-bundesliga",
+    "hasStandings": true
+  },
+  {
+    "id": "3931",
+    "name": "Italian Serie B",
+    "abbreviation": "Serie B",
+    "midsizeName": "ITA.2",
+    "slug": "italian-serie-b",
+    "hasStandings": false
+  },
+  {
+    "id": "20159",
+    "name": "French Ligue 1 Promotion/Relegation Playoffs",
+    "abbreviation": "Ligue 1 Promotion/Relegation Playoffs",
+    "midsizeName": "FRA.1.PROMOTION.RELEGATION",
+    "slug": "french-ligue-1-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "20160",
+    "name": "French Ligue 2 Promotion/Relegation Playoffs",
+    "abbreviation": "French Ligue 2 Promotion/Relegation Playoffs",
+    "midsizeName": "FRA.2.PROMOTION.RELEGATION",
+    "slug": "french-ligue-2-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3926",
+    "name": "French Ligue 2",
+    "abbreviation": "Ligue 2",
+    "midsizeName": "FRA.2",
+    "slug": "french-ligue-2",
+    "hasStandings": true
+  },
+  {
+    "id": "8305",
+    "name": "Dutch Eredivisie Promotion/Relegation Playoffs",
+    "midsizeName": "NED.PLAYOFF.RELEGATION",
+    "slug": "dutch-eredivisie-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "20115",
+    "name": "Dutch KNVB Beker Vrouwen",
+    "abbreviation": "Dutch Vrouwen KNVB Beker",
+    "midsizeName": "NED.W.KNVB_CUP",
+    "slug": "dutch-knvb-beker-vrouwen",
+    "hasStandings": false
+  },
+  {
+    "id": "20131",
+    "name": "Dutch Eredivisie Cup",
+    "abbreviation": "Dutch Eredivisie Cup",
+    "midsizeName": "NED.W.EREDIVISIE_CUP",
+    "slug": "dutch-eredivisie-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3933",
+    "name": "Dutch Keuken Kampioen Divisie",
+    "abbreviation": "Eerste",
+    "midsizeName": "NED.2",
+    "slug": "dutch-keuken-kampioen-divisie",
+    "hasStandings": true
+  },
+  {
+    "id": "19945",
+    "name": "Dutch Vrouwen Eredivisie",
+    "abbreviation": "Dutch Vrouwen Eredivisie",
+    "midsizeName": "NED.W.1",
+    "slug": "dutch-vrouwen-eredivisie",
+    "hasStandings": true
+  },
+  {
+    "id": "19968",
+    "name": "Swedish Allsvenskanliga Promotion/Relegation Playoffs",
+    "abbreviation": "Swedish Allsvenskanliga Promotion/Relegation Playoffs",
+    "midsizeName": "SWE.1.PROMOTION.RELEGATION",
+    "slug": "swedish-allsvenskanliga-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3945",
+    "name": "Swedish Allsvenskanliga",
+    "abbreviation": "Alls",
+    "midsizeName": "SWE.1",
+    "slug": "swedish-allsvenskanliga",
+    "hasStandings": true
+  },
+  {
+    "id": "3913",
+    "name": "Danish SAS-Ligaen",
+    "abbreviation": "SAS Lig",
+    "midsizeName": "DEN.1",
+    "slug": "danish-sas-ligaen",
+    "hasStandings": true
+  },
+  {
+    "id": "19872",
+    "name": "Danish SAS-Ligaen Promotion/Relegation Playoffs",
+    "abbreviation": "SAS-Lig",
+    "midsizeName": "DEN.PROMOTION.RELEGATION",
+    "slug": "danish-sas-ligaen-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "19908",
+    "name": "Dutch Tweede Divisie",
+    "abbreviation": "NED",
+    "midsizeName": "NED.3",
+    "slug": "dutch-tweede-divisie",
+    "hasStandings": true
+  },
+  {
+    "id": "19886",
+    "name": "Romanian Liga 1 Promotion/Relegation Playoffs",
+    "abbreviation": "ROM FD",
+    "midsizeName": "ROU.1.PROMOTION.RELEGATION",
+    "slug": "romanian-liga-1-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "10747",
+    "name": "Romanian Liga 1",
+    "abbreviation": "ROM FD",
+    "midsizeName": "ROU.1",
+    "slug": "romanian-liga-1",
+    "hasStandings": false
+  },
+  {
+    "id": "19989",
+    "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
+    "abbreviation": "Norwegian Eliteserien Promotion/Relegation Playoffs",
+    "midsizeName": "NOR.1.PROMOTION.RELEGATION",
+    "slug": "norwegian-eliteserien-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3960",
+    "name": "Norwegian Eliteserien",
+    "abbreviation": "Tip",
+    "midsizeName": "NOR.1",
+    "slug": "norwegian-eliteserien",
+    "hasStandings": true
+  },
+  {
+    "id": "10751",
+    "name": "Maltese Premier League",
+    "abbreviation": "MLT FD",
+    "midsizeName": "MLT.1",
+    "slug": "maltese-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "10750",
+    "name": "Israeli Premier League",
+    "abbreviation": "ISR PL",
+    "midsizeName": "ISR.1",
+    "slug": "israeli-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "19951",
+    "name": "Irish Premier Division Promotion/Relegation Playoffs",
+    "abbreviation": "IRE",
+    "midsizeName": "IR1.1.PROMOTION.RELEGATION",
+    "slug": "irish-premier-division-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "3930",
+    "name": "Irish Premier Division",
+    "abbreviation": "Ire",
+    "midsizeName": "IRL.1",
+    "slug": "irish-premier-division",
+    "hasStandings": true
+  },
+  {
+    "id": "3963",
+    "name": "Welsh Premier League",
+    "abbreviation": "Prem",
+    "midsizeName": "WAL.1",
+    "slug": "welsh-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "3958",
+    "name": "Northern Irish Premiership",
+    "abbreviation": "Prem",
+    "midsizeName": "NIR.1",
+    "slug": "northern-irish-premiership",
+    "hasStandings": false
+  },
+  {
+    "id": "783",
+    "name": "CONMEBOL Copa Libertadores",
+    "abbreviation": "Lib",
+    "midsizeName": "CONMEBOL.LIBERTADORES",
+    "slug": "conmebol-copa-libertadores",
+    "hasStandings": false
+  },
+  {
+    "id": "5454",
+    "name": "CONMEBOL Copa Sudamericana",
+    "abbreviation": "Sud",
+    "midsizeName": "CONMEBOL.SUDAMERICANA",
+    "slug": "conmebol-copa-sudamericana",
+    "hasStandings": false
+  },
+  {
+    "id": "8333",
+    "name": "CONMEBOL Recopa Sudamericana",
+    "abbreviation": "Recopa",
+    "midsizeName": "CONMEBOL.RECOPA",
+    "slug": "conmebol-recopa-sudamericana",
+    "hasStandings": false
+  },
+  {
+    "id": "745",
+    "name": "Argentine Liga Profesional de Fútbol",
+    "abbreviation": "Prim A",
+    "midsizeName": "ARG.1",
+    "slug": "argentine-liga-profesional-de-futbol",
+    "hasStandings": false
+  },
+  {
+    "id": "8107",
+    "name": "Copa Argentina",
+    "abbreviation": "C. Arg",
+    "midsizeName": "ARG.COPA",
+    "slug": "copa-argentina",
+    "hasStandings": false
+  },
+  {
+    "id": "19264",
+    "name": "Argentine Copa de la Superliga",
+    "abbreviation": "ASUPERPLIGA",
+    "midsizeName": "ARG.COPA_DE_LA_SUPERLIGA",
+    "slug": "argentine-copa-de-la-superliga",
+    "hasStandings": false
+  },
+  {
+    "id": "19705",
+    "name": "Argentine Trofeo de Campeones de la Superliga",
+    "abbreviation": "Trofeo de Campeones de la Superliga",
+    "midsizeName": "ARG.TROFEO_DE_LA_CAMPEONES",
+    "slug": "argentine-trofeo-de-campeones-de-la-superliga",
+    "hasStandings": false
+  },
+  {
+    "id": "8346",
+    "name": "Argentine Supercopa",
+    "midsizeName": "ARG.SUPERCOPA",
+    "slug": "argentine-supercopa",
+    "hasStandings": false
+  },
+  {
+    "id": "3903",
+    "name": "Argentine Nacional B",
+    "abbreviation": "Nac B",
+    "midsizeName": "ARG.2",
+    "slug": "argentine-nacional-b",
+    "hasStandings": false
+  },
+  {
+    "id": "3904",
+    "name": "Argentine Primera B",
+    "abbreviation": "Prim B",
+    "midsizeName": "ARG.3",
+    "slug": "argentine-primera-b",
+    "hasStandings": true
+  },
+  {
+    "id": "4003",
+    "name": "Argentine Primera C",
+    "abbreviation": "Prim C",
+    "midsizeName": "ARG.4",
+    "slug": "argentine-primera-c",
+    "hasStandings": true
+  },
+  {
+    "id": "3905",
+    "name": "Argentine Primera D",
+    "abbreviation": "Prim D",
+    "midsizeName": "ARG.5",
+    "slug": "argentine-primera-d",
+    "hasStandings": true
+  },
+  {
+    "id": "19721",
+    "name": "Supercopa Do Brazil",
+    "abbreviation": "SDB",
+    "midsizeName": "BRA.SUPERCOPA_DO_BRAZIL",
+    "slug": "supercopa-do-brazil",
+    "hasStandings": false
+  },
+  {
+    "id": "630",
+    "name": "Brazilian Serie A",
+    "abbreviation": "Bras",
+    "midsizeName": "BRA.1",
+    "slug": "brazilian-serie-a",
+    "hasStandings": true
+  },
+  {
+    "id": "4007",
+    "name": "Brazilian Serie B",
+    "abbreviation": "Bras B",
+    "midsizeName": "BRA.2",
+    "slug": "brazilian-serie-b",
+    "hasStandings": true
+  },
+  {
+    "id": "11088",
+    "name": "Brazilian Serie C",
+    "abbreviation": "Bras C",
+    "midsizeName": "BRA.3",
+    "slug": "brazilian-serie-c",
+    "hasStandings": true
+  },
+  {
+    "id": "8306",
+    "name": "Copa Do Brasil",
+    "midsizeName": "BRA.COPA_DO_BRAZIL",
+    "slug": "copa-do-brasil",
+    "hasStandings": false
+  },
+  {
+    "id": "10951",
+    "name": "Copa Do Nordeste",
+    "abbreviation": "CD NOR",
+    "midsizeName": "BRA.COPA_DO_NORDESTE",
+    "slug": "copa-do-nordeste",
+    "hasStandings": false
+  },
+  {
+    "id": "2265",
+    "name": "Brazilian Campeonato Carioca",
+    "midsizeName": "BRA.CAMP.CARIOCA",
+    "slug": "brazilian-campeonato-carioca",
+    "hasStandings": false
+  },
+  {
+    "id": "8207",
+    "name": "Brazilian Campeonato Paulista",
+    "abbreviation": "Paulista",
+    "midsizeName": "BRA.CAMP.PAULISTA",
+    "slug": "brazilian-campeonato-paulista",
+    "hasStandings": false
+  },
+  {
+    "id": "2272",
+    "name": "Brazilian Campeonato Gaucho",
+    "midsizeName": "BRA.CAMP.GAUCHO",
+    "slug": "brazilian-campeonato-gaucho",
+    "hasStandings": false
+  },
+  {
+    "id": "10872",
+    "name": "Brazilian Campeonato Mineiro",
+    "abbreviation": "BR CM",
+    "midsizeName": "BRA.CAMP.MINEIRO",
+    "slug": "brazilian-campeonato-mineiro",
+    "hasStandings": false
+  },
+  {
+    "id": "640",
+    "name": "Chilean Primera Division",
+    "abbreviation": "Prim",
+    "midsizeName": "CHI.1",
+    "slug": "chilean-primera-division",
+    "hasStandings": true
+  },
+  {
+    "id": "8312",
+    "name": "Copa Chile",
+    "midsizeName": "CHI.COPA_CHI",
+    "slug": "copa-chile",
+    "hasStandings": false
+  },
+  {
+    "id": "5343",
+    "name": "International U20 Friendly",
+    "midsizeName": "FIFA.U20.FRIENDLY",
+    "slug": "international-u20-friendly",
+    "hasStandings": false
+  },
+  {
+    "id": "3909",
+    "name": "Segunda División de Chile",
+    "abbreviation": "Seg",
+    "midsizeName": "CHI.2",
+    "slug": "segunda-division-de-chile",
+    "hasStandings": false
+  },
+  {
+    "id": "8364",
+    "name": "Chilean Supercopa",
+    "abbreviation": "Chile SC",
+    "midsizeName": "CHI.SUPER_CUP",
+    "slug": "chilean-supercopa",
+    "hasStandings": false
+  },
+  {
+    "id": "680",
+    "name": "Uruguayan Primera Division",
+    "abbreviation": "Prim",
+    "midsizeName": "URU.1",
+    "slug": "uruguayan-primera-division",
+    "hasStandings": true
+  },
+  {
+    "id": "3948",
+    "name": "Segunda División de Uruguay",
+    "abbreviation": "Seg",
+    "midsizeName": "URU.2",
+    "slug": "segunda-division-de-uruguay",
+    "hasStandings": false
+  },
+  {
+    "id": "19112",
+    "name": "Colombian SuperLiga",
+    "abbreviation": "SuperLiga",
+    "midsizeName": "COL.SUPERLIGA",
+    "slug": "colombian-superliga",
+    "hasStandings": false
+  },
+  {
+    "id": "650",
+    "name": "Colombian Primera A",
+    "abbreviation": "L. Águila",
+    "midsizeName": "COL.1",
+    "slug": "colombian-primera-a",
+    "hasStandings": false
+  },
+  {
+    "id": "3910",
+    "name": "Colombian Primera B",
+    "abbreviation": "Primera B",
+    "midsizeName": "COL.2",
+    "slug": "colombian-primera-b",
+    "hasStandings": true
+  },
+  {
+    "id": "19726",
+    "name": "Peruvian Supercopa",
+    "abbreviation": "PER",
+    "midsizeName": "PER.SUPERCOPA",
+    "slug": "peruvian-supercopa",
+    "hasStandings": false
+  },
+  {
+    "id": "8313",
+    "name": "Copa Colombia",
+    "abbreviation": "Copa Águila",
+    "midsizeName": "COL.COPA",
+    "slug": "copa-colombia",
+    "hasStandings": false
+  },
+  {
+    "id": "670",
+    "name": "Peruvian Primera Profesional",
+    "abbreviation": "Camp",
+    "midsizeName": "PER.1",
+    "slug": "peruvian-primera-profesional",
+    "hasStandings": true
+  },
+  {
+    "id": "3934",
+    "name": "Paraguayan Primera Division",
+    "abbreviation": "Prim",
+    "midsizeName": "PAR.1",
+    "slug": "paraguayan-primera-division",
+    "hasStandings": true
+  },
+  {
+    "id": "660",
+    "name": "Ecuadoran Primera A",
+    "abbreviation": "Prim",
+    "midsizeName": "ECU.1",
+    "slug": "ecuadoran-primera-a",
+    "hasStandings": true
+  },
+  {
+    "id": "19773",
+    "name": "Ecuadoran Supercopa",
+    "abbreviation": "Ecu Sup",
+    "midsizeName": "ECU.SUPERCOPA",
+    "slug": "ecuadoran-supercopa",
+    "hasStandings": false
+  },
+  {
+    "id": "8078",
+    "name": "Ecuador Serie B",
+    "abbreviation": "Serie B",
+    "midsizeName": "ECU.2",
+    "slug": "ecuador-serie-b",
+    "hasStandings": true
+  },
+  {
+    "id": "3949",
+    "name": "Venezuelan Primera Profesional",
+    "abbreviation": "Prim",
+    "midsizeName": "VEN.1",
+    "slug": "venezuelan-primera-profesional",
+    "hasStandings": true
+  },
+  {
+    "id": "19868",
+    "name": "United States NWSL Challenge Cup",
+    "abbreviation": "NWSL",
+    "midsizeName": "USA.NWSL.CUP",
+    "slug": "united-states-nwsl-challenge-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3950",
+    "name": "Segunda División de Venezuela",
+    "abbreviation": "Seg",
+    "midsizeName": "VEN.2",
+    "slug": "segunda-division-de-venezuela",
+    "hasStandings": false
+  },
+  {
+    "id": "620",
+    "name": "Bolivian Liga Profesional",
+    "abbreviation": "Liga",
+    "midsizeName": "BOL.1",
+    "slug": "bolivian-liga-profesional",
+    "hasStandings": true
+  },
+  {
+    "id": "10724",
+    "name": "Mexican Supercopa MX",
+    "abbreviation": "SC MX",
+    "midsizeName": "MEX.SUPERCOPA",
+    "slug": "mexican-supercopa-mx",
+    "hasStandings": false
+  },
+  {
+    "id": "5487",
+    "name": "United States NCAA Men's Soccer",
+    "abbreviation": "CMSOC",
+    "midsizeName": "USA.NCAA.M.1",
+    "slug": "united-states-ncaa-mens-soccer",
+    "hasStandings": false
+  },
+  {
+    "id": "17893",
+    "name": "Mexican Campeon de Campeones",
+    "abbreviation": "MX CDC",
+    "midsizeName": "MEX.Campeon",
+    "slug": "mexican-campeon-de-campeones",
+    "hasStandings": false
+  },
+  {
+    "id": "5499",
+    "name": "United States NCAA Women's Soccer",
+    "abbreviation": "CWSOC",
+    "midsizeName": "USA.NCAA.W.1",
+    "slug": "united-states-ncaa-womens-soccer",
+    "hasStandings": false
+  },
+  {
+    "id": "5692",
+    "name": "CONCACAF Champions Cup",
+    "abbreviation": "Conc CC",
+    "midsizeName": "CONCACAF.CHAMPIONS_CUP",
+    "slug": "concacaf-champions-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3911",
+    "name": "CONCACAF U23 Tournament",
+    "abbreviation": "Conc U23",
+    "midsizeName": "CONCACAF.U23",
+    "slug": "concacaf-u23-tournament",
+    "hasStandings": false
+  },
+  {
+    "id": "17933",
+    "name": "CONCACAF League",
+    "abbreviation": "Conc L",
+    "midsizeName": "CONCACAF.LEAGUE",
+    "slug": "concacaf-league",
+    "hasStandings": false
+  },
+  {
+    "id": "18992",
+    "name": "Australian W-League",
+    "abbreviation": "W league",
+    "midsizeName": "AUS.W.1",
+    "slug": "australian-w-league",
+    "hasStandings": false
+  },
+  {
+    "id": "3929",
+    "name": "Honduran Primera Division",
+    "abbreviation": "Prim",
+    "midsizeName": "HON.1",
+    "slug": "honduran-primera-division",
+    "hasStandings": false
+  },
+  {
+    "id": "3943",
+    "name": "Salvadoran Primera Division",
+    "abbreviation": "Prim",
+    "midsizeName": "SLV.1",
+    "slug": "salvadoran-primera-division",
+    "hasStandings": false
+  },
+  {
+    "id": "5672",
+    "name": "AFF Cup",
+    "abbreviation": "AFF Cup",
+    "midsizeName": "AFF.CHAMPIONSHIP",
+    "slug": "aff-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "18914",
+    "name": "SAFF Championship",
+    "midsizeName": "AFC.SAFF.CHAMPIONSHIP",
+    "slug": "saff-championship",
+    "hasStandings": false
+  },
+  {
+    "id": "4005",
+    "name": "Costa Rican Primera Division",
+    "abbreviation": "Prim",
+    "midsizeName": "CRC.1",
+    "slug": "costa-rican-primera-division",
+    "hasStandings": false
+  },
+  {
+    "id": "19948",
+    "name": "Chinese Super League Promotion/Relegation Playoffs",
+    "abbreviation": "CSL",
+    "midsizeName": "CHN.1.PROMOTION.RELEGATION",
+    "slug": "chinese-super-league-promotionrelegation-playoffs",
+    "hasStandings": false
+  },
+  {
+    "id": "8347",
+    "name": "Jamaican Premier League",
+    "abbreviation": "JPL",
+    "midsizeName": "JAM.1",
+    "slug": "jamaican-premier-league",
+    "hasStandings": false
+  },
+  {
+    "id": "750",
+    "name": "Japanese J League",
+    "abbreviation": "J Lge",
+    "midsizeName": "JPN.1",
+    "slug": "japanese-j1-league",
+    "hasStandings": true
+  },
+  {
+    "id": "3928",
+    "name": "Guatemalan Liga Nacional",
+    "abbreviation": "Liga",
+    "midsizeName": "GUA.1",
+    "slug": "guatemalan-liga-nacional",
+    "hasStandings": false
+  },
+  {
+    "id": "8339",
+    "name": "Indonesian Liga 1",
+    "abbreviation": "IDN",
+    "midsizeName": "IDN.1",
+    "slug": "indonesian-liga-1",
+    "hasStandings": true
+  },
+  {
+    "id": "8316",
+    "name": "Indian Super League",
+    "abbreviation": "ISL",
+    "midsizeName": "IND.1",
+    "slug": "indian-super-league",
+    "hasStandings": false
+  },
+  {
+    "id": "18505",
+    "name": "Indian I-League",
+    "abbreviation": "IIL",
+    "midsizeName": "IND.2",
+    "slug": "indian-i-league",
+    "hasStandings": true
+  },
+  {
+    "id": "8340",
+    "name": "Malaysian Super League",
+    "abbreviation": "MYS",
+    "midsizeName": "MYS.1",
+    "slug": "malaysian-super-league",
+    "hasStandings": true
+  },
+  {
+    "id": "8341",
+    "name": "Singaporean Premier League",
+    "midsizeName": "SGP.1",
+    "slug": "singaporean-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "8344",
+    "name": "Thai Premier League",
+    "abbreviation": "Thai Premier League",
+    "midsizeName": "THA.1",
+    "slug": "thai-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "18954",
+    "name": "Bangabandhu Cup",
+    "abbreviation": "BGC",
+    "midsizeName": "BANGABANDHU.CUP",
+    "slug": "bangabandhu-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "2391",
+    "name": "CAF Champions League",
+    "abbreviation": "CAFCO",
+    "midsizeName": "CAF.CHAMPIONS",
+    "slug": "caf-champions-league",
+    "hasStandings": false
+  },
+  {
+    "id": "19911",
+    "name": "South African Premiership Promotion/Relegation Playoffs",
+    "abbreviation": "Prem",
+    "midsizeName": "RSA.1.PROMOTION.RELEGATION",
+    "slug": "south-african-premiership-promotionrelegation-playoffs",
+    "hasStandings": true
+  },
+  {
+    "id": "18000",
+    "name": "CAF Confederations Cup",
+    "abbreviation": "CAFCH",
+    "midsizeName": "CAF.CONFED",
+    "slug": "caf-confederations-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "3937",
+    "name": "South African Premiership",
+    "abbreviation": "Prem",
+    "midsizeName": "RSA.1",
+    "slug": "south-african-premiership",
+    "hasStandings": true
+  },
+  {
+    "id": "3938",
+    "name": "South African First Division",
+    "abbreviation": "Nat",
+    "midsizeName": "RSA.2",
+    "slug": "south-african-first-division",
+    "hasStandings": true
+  },
+  {
+    "id": "18480",
+    "name": "South African Telkom Knockout",
+    "abbreviation": "RSATELKOM",
+    "midsizeName": "RSA.TELKOM_KNOCKOUT",
+    "slug": "south-african-telkom-knockout",
+    "hasStandings": false
+  },
+  {
+    "id": "11056",
+    "name": "South African Nedbank Cup",
+    "abbreviation": "RSANED",
+    "midsizeName": "RSA.NEDBANK",
+    "slug": "south-african-nedbank-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "11055",
+    "name": "MTN 8 Cup",
+    "abbreviation": "RSAMTN",
+    "midsizeName": "RSA.MTN8",
+    "slug": "mtn-8-cup",
+    "hasStandings": false
+  },
+  {
+    "id": "8345",
+    "name": "Nigerian Professional League",
+    "midsizeName": "NGA.1",
+    "slug": "nigerian-professional-league",
+    "hasStandings": true
+  },
+  {
+    "id": "11052",
+    "name": "Ghanaian Premier League",
+    "abbreviation": "GPL",
+    "midsizeName": "GHA.1",
+    "slug": "ghanaian-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "11090",
+    "name": "Zambian Super League",
+    "abbreviation": "ZSL",
+    "midsizeName": "ZAM.1",
+    "slug": "zambian-super-league",
+    "hasStandings": true
+  },
+  {
+    "id": "11054",
+    "name": "Kenyan Premier League",
+    "abbreviation": "KPL",
+    "midsizeName": "KEN.1",
+    "slug": "kenyan-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "11067",
+    "name": "Zimbabwean Premier Soccer League",
+    "abbreviation": "ZP",
+    "midsizeName": "ZIM.1",
+    "slug": "zimbabwean-premier-soccer-league",
+    "hasStandings": true
+  },
+  {
+    "id": "11053",
+    "name": "Ugandan Premier League",
+    "abbreviation": "USL",
+    "midsizeName": "UGA.1",
+    "slug": "ugandan-premier-league",
+    "hasStandings": true
+  },
+  {
+    "id": "5383",
+    "name": "Misc. U.S. Soccer Games",
+    "midsizeName": "GENERIC.USSF",
+    "slug": "misc-us-soccer-games",
+    "hasStandings": false
+  }
+]
