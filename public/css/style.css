@@ -537,6 +537,53 @@ footer {
   background: var(--main-background);
 }
 
+.main-nav {
+  display: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.main-nav ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.main-nav ul li {
+  position: relative;
+}
+
+.main-nav ul li a {
+  font-weight: 300;
+  letter-spacing: -.03em;
+  line-height: 1.25;
+  text-transform: uppercase;
+  -webkit-transition: all 240ms ease;
+  transition: all 240ms ease;
+}
+
+.main-nav ul li a:hover {
+  color: #a3ff12;
+}
+
+.main-nav__list a {
+  color: #fff;
+}
+
+.main-nav__list li.active > a {
+  color: #a3ff12;
+}
+
+.main-nav__list > li {
+  display: inline-block;
+}
+
+.main-nav__list > li:first-child {
+  padding-left: 0;
+}
+
+.main-nav__list > li:last-child {
+  padding-right: 0;
+}
+
 @-webkit-keyframes slideIn {
   from {
     bottom: -300px;
