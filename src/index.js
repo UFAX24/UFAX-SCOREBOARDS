@@ -46,7 +46,7 @@ app.use((err, req, res, next) => {
   const { statusCode = 500, message = 'Internal Server Error' } = err;
   const errData = { message };
   if (env !== 'production') {
-    // console.error(err);
+    console.error(err);
     console.error(err && err.response);
     errData.stack = err.stack;
   }

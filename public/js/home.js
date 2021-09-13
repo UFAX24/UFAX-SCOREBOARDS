@@ -1,7 +1,7 @@
 let dataStandings = [];
 let dataScoreboards = [];
 let eventSelected = {};
-const BLANK_LOGO = '/icons/blank-shield.png';
+const BLANK_LOGO = '/icons/logo.png';
 
 const containerStanding = document.querySelector('.home-container-item.standing');
 const containerScoreboard = document.querySelector('.home-container-item.scoreboard');
@@ -144,14 +144,14 @@ const setStanding = (dataStandings, index) => {
       <thead>
         <tr>
           <th>#</th>
-          <th>Team</th>
-          <th>PL</th>
-          <th>W</th>
-          <th>D</th>
-          <th>L</th>
+          <th>ทีม</th>
+          <th>แข่ง</th>
+          <th>ชนะ</th>
+          <th>เสมอ</th>
+          <th>แพ้</th>
           <th>+/-</th>
           <th>GD</th>
-          <th>PTS</th>
+          <th>คะแนน</th>
       </tr>
       </thead>
       <tbody>

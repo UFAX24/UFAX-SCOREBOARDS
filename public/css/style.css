@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;0,400;1,300&display=swap');
 
 :root {
   --page-background: rgba(0, 0, 0, 1);
-  --main-background: rgba(40, 40, 40, 1);
-  --secondary-background: rgba(60, 60, 60, 1);
-  --third-background: rgba(80, 80, 80, 1);
+  --main-background: rgb(20, 19, 19);
+  --secondary-background: rgb(128, 125, 125);
+  --third-background: rgb(104, 102, 102);
   --font-white: rgba(255, 255, 255, 1);
-  --button-background: rgba(120, 120, 120, 1);
+  --button-background: rgb(46, 44, 44);
   --text-active: rgba(201, 221, 3, 1);
 }
 
@@ -57,16 +57,17 @@ button:hover {
 }
 
 html {
-  background-color: var(--page-background);
-  font-family: "Roboto", sans-serif;
+  background-image: url("../icons/bg-texture-01.jpg");
+  background-size: contain;
+  font-family: "Kanit", sans-serif;
   margin: 0;
   padding: 0;
   font-size: 20px;
 }
 
 body {
-  background-color: var(--main-background);
-  width: 90%;
+  background-color: var(--button-background);
+  width: 95%;
   height: 100%;
   margin: 0 auto;
   color: var(--font-white);
@@ -461,6 +462,7 @@ img.match-header-logo {
   top: 0;
   width: 100%;
   height: 100%;
+  background-image: url("../icons/bg-texture-01.jpg");
   background-color: rgb(0, 0, 0);
   background-color: rgba(0, 0, 0, 0.4);
   -webkit-animation-name: fadeIn;
